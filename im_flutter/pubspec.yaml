@@ -1,0 +1,70 @@
+name: im_flutter
+description: 基于Flutter的即时通信应用
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # 状态管理
+  get: ^4.6.6
+
+  # 网络请求
+  dio: ^5.4.0
+
+  # 本地存储
+  shared_preferences: ^2.2.2
+
+  # WebSocket
+  web_socket_channel: ^2.4.0
+
+  # JSON序列化
+  json_annotation: ^4.8.1
+
+  # 日期格式化
+  intl: ^0.19.0
+
+  # 图片缓存
+  cached_network_image: ^3.3.1
+
+  # SVG支持
+  flutter_svg: ^2.0.9
+
+  # 图片选择
+  image_picker: ^1.0.7
+
+  # URL启动
+  url_launcher: ^6.2.2
+
+  # 加载动画
+  flutter_spinkit: ^5.2.0
+
+  # 二维码
+  qr_flutter: ^4.1.0
+  mobile_scanner: ^3.5.5
+
+  # 环境变量
+  flutter_dotenv: ^5.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # JSON序列化代码生成
+  json_serializable: ^6.7.1
+  build_runner: ^2.4.7
+
+  # Lint规则
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
+
+  # 图片资源
+  assets:
+    - assets/images/
+    - assets/icons/
