@@ -119,7 +119,35 @@ flutter_pro/
 
 ## 截图
 
-> 待补充
+### 登录/注册
+| 登录页 | 注册页 |
+|--------|--------|
+| ![登录页](screenshots/login.png) | ![注册页](screenshots/register.png) |
+
+### 消息
+| 聊天列表 | 私聊 | 群聊 |
+|----------|------|------|
+| ![聊天列表](screenshots/chatlist.png) | ![私聊](screenshots/privatechat.png) | ![群聊](screenshots/groupchat.png) |
+
+### 聊天功能
+| 消息搜索 | 长按回复 |
+|----------|----------|
+| ![消息搜索](screenshots/search.png) | ![长按回复](screenshots/presstoreply.png) |
+
+### 通讯录
+| 通讯录 | 好友申请 | 添加好友 |
+|--------|----------|----------|
+| ![通讯录](screenshots/address.png) | ![好友申请](screenshots/friend%20apply.png) | ![添加好友](screenshots/add%20friend.png) |
+
+### 好友与群聊
+| 申请处理 | 创建群聊 | 用户资料 |
+|----------|----------|----------|
+| ![申请处理](screenshots/apply%20process.png) | ![创建群聊](screenshots/create%20group.png) | ![用户资料](screenshots/user%20data.png) |
+
+### 个人中心
+| 我的页面 | 编辑资料 | 扫码登录 |
+|----------|----------|----------|
+| ![我的页面](screenshots/mypage.png) | ![编辑资料](screenshots/use%20editr.png) | ![扫码登录](screenshots/scan.png) |
 
 ## License
 
